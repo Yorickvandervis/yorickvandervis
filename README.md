@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @yorickvandervis
-- 👀 I’m interested in Ruby, Rails, Web3, Blockchain & Building fun projects.
-- 🌱 I’m currently learning solidity.
-- 💞️ I’m looking to collaborate on open source projects.
-- 📫 How to reach me: @yorickvandervis on twitter.
+- 👋 interested in Rust, Ruby, Rails, JS/TS.
+- 🌱 Looking to collaborate on open source projects.
+- 📫 @yorickvandervis
 
 <!---
 yorickvandervis/yorickvandervis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
