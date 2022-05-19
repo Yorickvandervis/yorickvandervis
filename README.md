@@ -1,6 +1,6 @@
 - 👋 interested in Rust, Ruby, Rails, JS/TS.
 - 🌱 Looking to collaborate on open source projects.
-- 📫 @yorickvandervis
+- 📫 [@yorickvandervis](https://twitter.com/yorickvandervis)
 
 <!---
 yorickvandervis/yorickvandervis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
