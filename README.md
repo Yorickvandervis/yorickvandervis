@@ -1,4 +1,4 @@
-- 👋 interested in Rust, Ruby, Rails, JS/TS.
+- 👋 interested in Rust, Ruby, Rails, Svelte & JS/TS.
 - 🌱 Looking to collaborate on open source projects.
 - 📫 [@yorickvandervis](https://twitter.com/yorickvandervis)
 
